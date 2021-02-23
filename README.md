@@ -20,7 +20,7 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
 3. [Create Virtual Machine](#3-Create-Virtual-Machine)
 4. [Install Ubuntu](#4-Install-Ubuntu)
 5. [Installing ROS on Ubuntu](#5-Installing-ROS-on-Ubuntu)
-6. [Install VirtualBox Guest Additions (Optional)](#6-install-virtualbox-guest-additions-optional-)
+6. [Install VirtualBox Guest Additions (Optional)](#6-install-virtualbox-guest-additions-optional)
 
 ## 1. Installing VirtualBox
 
