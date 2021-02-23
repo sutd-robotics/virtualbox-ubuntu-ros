@@ -15,7 +15,12 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
 
 ## Steps
 
-1. Install VirtualBox
+1. [Install VirtualBox](#1.-Installing-Virtualbox)
+2. [Download Ubuntu ISO](#2.-Download-Ubuntu-ISO)
+3. [Create Virtual Machine](#3.-Create-Virtual-Machine)
+4. [Install Ubuntu](#4.-Install-Ubuntu)
+5. [Installing ROS on Ubuntu](#5-Installing-ROS-on-Ubuntu)
+6. [Install VirtualBox Guest Additions (Optional)](#guest_addition)
 
 ## 1. Installing VirtualBox
 
@@ -138,12 +143,12 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
     Set up sources.list
     
     ```
-    sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -	sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+    sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
     ```
     
     Set up keys
     ```
-    sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --		recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+    sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
     ```
     
     Update Debian package index
@@ -184,7 +189,7 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
     source ~/.bashrc
     ```
 
-## 6. Install VirtualBox Guest Additions (Optional)
+## 6. Install VirtualBox Guest Additions (Optional) <a name="guest_addition"></a>
 
 VirtualBox Guest Addition on the guest OS will allow you to resize the window of VirtualBox.
 
