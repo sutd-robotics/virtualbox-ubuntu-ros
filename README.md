@@ -15,12 +15,12 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
 
 ## Steps
 
-1. [Install VirtualBox](#1.-Installing-Virtualbox)
-2. [Download Ubuntu ISO](#2.-Download-Ubuntu-ISO)
-3. [Create Virtual Machine](#3.-Create-Virtual-Machine)
-4. [Install Ubuntu](#4.-Install-Ubuntu)
+1. [Install VirtualBox](#1-Installing-Virtualbox)
+2. [Download Ubuntu ISO](#2-Download-Ubuntu-ISO)
+3. [Create Virtual Machine](#3-Create-Virtual-Machine)
+4. [Install Ubuntu](#4-Install-Ubuntu)
 5. [Installing ROS on Ubuntu](#5-Installing-ROS-on-Ubuntu)
-6. [Install VirtualBox Guest Additions (Optional)](#guest_addition)
+6. [Install VirtualBox Guest Additions (Optional)](#6-install-virtualbox-guest-additions-optional-)
 
 ## 1. Installing VirtualBox
 
@@ -189,7 +189,7 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
     source ~/.bashrc
     ```
 
-## 6. Install VirtualBox Guest Additions (Optional) <a name="guest_addition"></a>
+## 6. Install VirtualBox Guest Additions (Optional)
 
 VirtualBox Guest Addition on the guest OS will allow you to resize the window of VirtualBox.
 
