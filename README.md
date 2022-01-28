@@ -136,7 +136,7 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
 
 5. Open a terminal window by pressing the windows key and searching `Terminal` or using the keyboard shortcut `Ctrl+Alt+T`.
 
-6. Run the following commands sequentially. For convenience, you may want to install the [virtualbox guest additions]((#6-install-virtualbox-guest-additions-optional)) which will enable `Host to Guest` clipboard via `Devices > Shared Clipboard > Host to Guest `, allowing you to copy from Windows and paste in Ubuntu. Alternatively, you can navigate to this page on Firefox in the virtual machine to copy and paste the commands.
+6. Run the following commands sequentially. For convenience, you may want to install the [virtualbox guest additions](#6-install-virtualbox-guest-additions-optional) which will enable `Host to Guest` clipboard via `Devices > Shared Clipboard > Host to Guest `, allowing you to copy from Windows and paste in Ubuntu. Alternatively, you can navigate to this page on Firefox in the virtual machine to copy and paste the commands.
 
     > Commands adapted from http://wiki.ros.org/noetic/Installation/Ubuntu.
 
