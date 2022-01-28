@@ -50,7 +50,7 @@ Guide compiled by Ian ([@iangohy](https://github.com/iangohy)).
 
    ![vm name](media/vm_name.png)
 
-4. Increase the memory size to `6144MB` (6GB). Click `Next`.
+4. Increase the memory size to `6144MB` (6GB). If `6144MB` is within the orange or red zone, use a memory size of `4096MB` instead. Click `Next`.
 
    ![ram size](media/ram.png)
 
